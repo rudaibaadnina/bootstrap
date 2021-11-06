@@ -1,0 +1,10 @@
+.box{
+	height: 100px;
+	background-color: #b39393;
+	margin-bottom: 10px;
+}
+
+.f_height{
+	min-height: 300px;
+	border: 1px solid red;
+}
